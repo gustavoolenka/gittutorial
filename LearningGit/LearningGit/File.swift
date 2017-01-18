@@ -10,6 +10,6 @@ import Foundation
 
 class Olenka {
     var primeiroNome: String!
-    var tamanhoP: Int!
-    
+    var tamanhoP: Double!
+    var ppk: String!
 }
