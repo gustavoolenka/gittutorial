@@ -11,5 +11,5 @@ import Foundation
 class Olenka {
     var primeiroNome: String!
     var tamanhoP: Double!
-    var ppk: Int!
+    var ppk: Int?ç
 }
